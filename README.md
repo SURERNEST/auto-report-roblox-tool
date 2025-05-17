@@ -23,7 +23,7 @@ Herramienta educativa para automatizar reportes de usuarios en Roblox desde la t
 
 - AVISO IMPORTANTE ( RECUERDA USAR CUENTAS ALTERNATIVAS Y NO TU CUENTA PRINCIPAL )
 - aqui te dejo un servidor de discord el cual tiene un bot para generar cuentas de roblox alternativas con 2-3 meses de antiguedad
-- https://discord.gg/dEf2EcRJ
+- https://discord.gg/dEf2EcRJ ( si el link caduca solo busca CATGENERATOR | ROBLOX TOOLS DISCORD  en google )
   
 
 
