@@ -21,6 +21,12 @@ Herramienta educativa para automatizar reportes de usuarios en Roblox desde la t
 - Soporte para proxies (opcional)
 - Limpieza de pantalla y opción para volver al menú principal
 
+- AVISO IMPORTANTE ( RECUERDA USAR CUENTAS ALTERNATIVAS Y NO TU CUENTA PRINCIPAL )
+- aqui te dejo un servidor de discord el cual tiene un bot para generar cuentas de roblox alternativas con 2-3 meses de antiguedad
+- https://discord.gg/dEf2EcRJ
+  
+
+
 ---
 
 ## Compatibilidad
